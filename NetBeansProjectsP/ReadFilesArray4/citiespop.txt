@@ -1,0 +1,5 @@
+London,6000000
+Edinburgh,494000
+Glasgow,600000
+Dundee,148200
+
